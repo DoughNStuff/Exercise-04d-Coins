@@ -1,7 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+I added what was required for the exercise
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -14,4 +14,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Max Ramirez, DoughNStuff
